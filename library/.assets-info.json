@@ -1,0 +1,1994 @@
+{
+  "/Users/edwin/Desktop/CCC/test/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources": {
+    "time": 1658494678711.9514,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game.meta": {
+    "time": 1658322311291.8896
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts": {
+    "time": 1658322311290.7646,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game": {
+    "time": 1658497134081.2935,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Bee.ts.meta": {
+    "time": 1657978542330.9797
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Bee.ts": {
+    "time": 1658328239699.417,
+    "uuid": "d9d4a245-589f-4d73-93c8-6c783e37c6a4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/MJTapper.ts.meta": {
+    "time": 1658322326476.7576
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/MJTapper.ts": {
+    "time": 1658556798423.9915,
+    "uuid": "d589ccca-95c3-4806-9aec-b2a0c05c4ed3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs": {
+    "time": 1658498265277.9753,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/bee.png.meta": {
+    "time": 1657969771726.1475
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_all.plist.meta": {
+    "time": 1658320689358.0027
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images": {
+    "time": 1658495366673.6248,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/bee.png": {
+    "time": 1657470836594.3652,
+    "uuid": "e9e9b50b-961e-4e7a-9219-dc9ae215422c",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_all.png": {
+    "time": 1658320689148.6948,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_all.plist": {
+    "time": 1658320689147.0464,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scenes/scene.scene": {
+    "time": 1658557301111.9905,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs/MJList.prefab.meta": {
+    "time": 1658329493025.4417
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs/MJList.prefab": {
+    "time": 1658493605060.8772,
+    "uuid": "85534ea7-0f04-4ff6-a95f-ba61facd14b9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_MJQuizProvider.ts.meta": {
+    "time": 1658412984720.2588
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_MJTools.ts.meta": {
+    "time": 1658412984721.2698
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_Tools.ts.meta": {
+    "time": 1658412984723.3074
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_MJQuizProvider.ts": {
+    "time": 1658412386271.643,
+    "uuid": "f7f76020-1295-416d-8430-d5f954aa5e3b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_MJTools.ts": {
+    "time": 1658412375564.587,
+    "uuid": "2bbc0bea-b219-4ecd-90d4-caea757e7e25",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/ES_Tools.ts": {
+    "time": 1658412242819.4148,
+    "uuid": "6c84853e-d95e-4478-adc2-d02c66bd2ee0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/samurai.png.meta": {
+    "time": 1658494865693.4216
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/samurai.png": {
+    "time": 1658494852817.8699,
+    "uuid": "7305c688-56c5-4a91-82dd-f28a97bb2b68",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/street.webp.meta": {
+    "time": 1658495108463.891
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/street.webp": {
+    "time": 1658495099116.5083,
+    "uuid": "68345393-898e-430a-8953-fd0d651662cf",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/MJAttack.ts.meta": {
+    "time": 1658497134085.51
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/Scripts/Game/MJAttack.ts": {
+    "time": 1658557270499.7856,
+    "uuid": "cfaeb345-f1b3-4484-8373-57beb3ecc865",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs/SFImg.prefab.meta": {
+    "time": 1658498265292.8704
+  },
+  "/Users/edwin/Desktop/CCC/test/assets/resources/prefabs/SFImg.prefab": {
+    "time": 1658498265290.7578,
+    "uuid": "d4a759b5-9dc5-44aa-bddd-5d62a548b491",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources": {
+    "time": 1658561088983.4507,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images": {
+    "time": 1658571038168.3625,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/prefabs": {
+    "time": 1658560920564.557,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_all.plist": {
+    "time": 1658320689147.0464,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_all.png": {
+    "time": 1658320689148.6948,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/samurai.png": {
+    "time": 1658494852817.8699,
+    "uuid": "7305c688-56c5-4a91-82dd-f28a97bb2b68",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/prefabs/MJList.prefab": {
+    "time": 1658493605060.8772,
+    "uuid": "85534ea7-0f04-4ff6-a95f-ba61facd14b9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/prefabs/MJList.prefab.meta": {
+    "time": 1658329493025.4417
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/samurai.png.meta": {
+    "time": 1658494865693.4216
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/mj_all.plist.meta": {
+    "time": 1658320689358.0027
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds.meta": {
+    "time": 1658561088984.56
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds": {
+    "time": 1658561187291.6482,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scenes/scene.scene": {
+    "time": 1658571411093.2217,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game.meta": {
+    "time": 1658322311291.8896
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_MJQuizProvider.ts.meta": {
+    "time": 1658412984720.2588
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_MJTools.ts.meta": {
+    "time": 1658412984721.2698
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_Tools.ts.meta": {
+    "time": 1658412984723.3074
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1658497134085.51
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJTapper.ts.meta": {
+    "time": 1658322326476.7576
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game": {
+    "time": 1658562671386.31,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_MJQuizProvider.ts": {
+    "time": 1658412386271.643,
+    "uuid": "f7f76020-1295-416d-8430-d5f954aa5e3b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_MJTools.ts": {
+    "time": 1658412375564.587,
+    "uuid": "2bbc0bea-b219-4ecd-90d4-caea757e7e25",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/ES_Tools.ts": {
+    "time": 1658412242819.4148,
+    "uuid": "6c84853e-d95e-4478-adc2-d02c66bd2ee0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJAttack.ts": {
+    "time": 1658557270499.7856,
+    "uuid": "cfaeb345-f1b3-4484-8373-57beb3ecc865",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJTapper.ts": {
+    "time": 1658571387796.86,
+    "uuid": "d589ccca-95c3-4806-9aec-b2a0c05c4ed3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mute.mp3.meta": {
+    "time": 1658561187335.2815
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3.meta": {
+    "time": 1658561187345.1523
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3.meta": {
+    "time": 1658561187359.4146
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3.meta": {
+    "time": 1658561187370.355
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3.meta": {
+    "time": 1658561187378.022
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3.meta": {
+    "time": 1658561187390.7234
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/bgloop.mp3.meta": {
+    "time": 1658561187404.3025
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mute.mp3": {
+    "time": 1658561187261.515,
+    "uuid": "cacf8bc6-99e4-47b8-9e01-5fda27c1573a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3": {
+    "time": 1658561187261.68,
+    "uuid": "0992d962-c6dc-497e-85c3-2866865094bb",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3": {
+    "time": 1658561187263.8884,
+    "uuid": "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3": {
+    "time": 1658561187264.1528,
+    "uuid": "5ae2034f-7ffa-41e7-810e-7e898d4f6a70",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3": {
+    "time": 1658561187265.2441,
+    "uuid": "ff26ac86-608e-4a95-9456-5493d1357176",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3": {
+    "time": 1658561187265.3833,
+    "uuid": "4d54aace-6876-42b3-8b69-0afcdabe9d28",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/sounds/bgloop.mp3": {
+    "time": 1658561187283.2227,
+    "uuid": "f7505143-78fe-4808-b15e-a473edd691b4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1658561522820.6804
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/MJShare.ts": {
+    "time": 1658561426710.4094,
+    "uuid": "53b9d762-8e13-421d-b7fb-a8915ee59884",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1658562681353.052
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1658562681354.3188
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CSpriteKBController.ts.meta": {
+    "time": 1657978542330.9797
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1658569947791.6902,
+    "uuid": "e91da4b2-b59a-4b4f-8290-70a1d7b890d7",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "af7b4ea5-5cc6-4dfe-872d-0845e55175bc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/scripts/game/CSpriteKBController.ts": {
+    "time": 1658562677487.3286,
+    "uuid": "d9d4a245-589f-4d73-93c8-6c783e37c6a4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/hint.png.meta": {
+    "time": 1658571038199.1348
+  },
+  "/Users/edwin/Desktop/CCC/CCC1MJMustGo/assets/resources/images/hint.png": {
+    "time": 1658571038168.5242,
+    "uuid": "73d8000b-62ae-4ddc-8489-75d61fef76d1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources": {
+    "time": 1658561088983.4507,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images": {
+    "time": 1658684489512.5417,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/prefabs": {
+    "time": 1658560920564.557,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds": {
+    "time": 1658652972089.016,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scenes/scene.scene": {
+    "time": 1658933815429.2097,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game": {
+    "time": 1658637619111.3123,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/hint.png": {
+    "time": 1658571038168.5242,
+    "uuid": "73d8000b-62ae-4ddc-8489-75d61fef76d1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_all.plist": {
+    "time": 1658320689147.0464,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_all.png": {
+    "time": 1658320689148.6948,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/samurai.png": {
+    "time": 1658494852817.8699,
+    "uuid": "7305c688-56c5-4a91-82dd-f28a97bb2b68",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/prefabs/MJList.prefab": {
+    "time": 1658493605060.8772,
+    "uuid": "85534ea7-0f04-4ff6-a95f-ba61facd14b9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/bgloop.mp3": {
+    "time": 1658561187283.2227,
+    "uuid": "f7505143-78fe-4808-b15e-a473edd691b4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3": {
+    "time": 1658561187265.2441,
+    "uuid": "ff26ac86-608e-4a95-9456-5493d1357176",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3": {
+    "time": 1658561187263.8884,
+    "uuid": "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3": {
+    "time": 1658561187264.1528,
+    "uuid": "5ae2034f-7ffa-41e7-810e-7e898d4f6a70",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3": {
+    "time": 1658561187265.3833,
+    "uuid": "4d54aace-6876-42b3-8b69-0afcdabe9d28",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3": {
+    "time": 1658561187261.68,
+    "uuid": "0992d962-c6dc-497e-85c3-2866865094bb",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mute.mp3": {
+    "time": 1658561187261.515,
+    "uuid": "cacf8bc6-99e4-47b8-9e01-5fda27c1573a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1658569947791.6902,
+    "uuid": "e91da4b2-b59a-4b4f-8290-70a1d7b890d7",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "af7b4ea5-5cc6-4dfe-872d-0845e55175bc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSpriteKBController.ts": {
+    "time": 1658562677487.3286,
+    "uuid": "d9d4a245-589f-4d73-93c8-6c783e37c6a4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_MJQuizProvider.ts": {
+    "time": 1658412386271.643,
+    "uuid": "f7f76020-1295-416d-8430-d5f954aa5e3b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_MJTools.ts": {
+    "time": 1658412375564.587,
+    "uuid": "2bbc0bea-b219-4ecd-90d4-caea757e7e25",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_Tools.ts": {
+    "time": 1658412242819.4148,
+    "uuid": "6c84853e-d95e-4478-adc2-d02c66bd2ee0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJAttack.ts": {
+    "time": 1658581147643.7998,
+    "uuid": "cfaeb345-f1b3-4484-8373-57beb3ecc865",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJShare.ts": {
+    "time": 1658561426710.4094,
+    "uuid": "53b9d762-8e13-421d-b7fb-a8915ee59884",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJTapper.ts": {
+    "time": 1658933212806.5544,
+    "uuid": "d589ccca-95c3-4806-9aec-b2a0c05c4ed3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds.meta": {
+    "time": 1658561088984.56
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game.meta": {
+    "time": 1658322311291.8896
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/hint.png.meta": {
+    "time": 1658571038199.1348
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/prefabs/MJList.prefab.meta": {
+    "time": 1658329493025.4417
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/samurai.png.meta": {
+    "time": 1658494865693.4216
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/bgloop.mp3.meta": {
+    "time": 1658561187404.3025
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3.meta": {
+    "time": 1658561187378.022
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3.meta": {
+    "time": 1658561187359.4146
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3.meta": {
+    "time": 1658561187370.355
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3.meta": {
+    "time": 1658561187390.7234
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3.meta": {
+    "time": 1658561187345.1523
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1658562681353.052
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1658562681354.3188
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSpriteKBController.ts.meta": {
+    "time": 1657978542330.9797
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mute.mp3.meta": {
+    "time": 1658561187335.2815
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_MJQuizProvider.ts.meta": {
+    "time": 1658412984720.2588
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_MJTools.ts.meta": {
+    "time": 1658412984721.2698
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/ES_Tools.ts.meta": {
+    "time": 1658412984723.3074
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1658497134085.51
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1658561522820.6804
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/MJTapper.ts.meta": {
+    "time": 1658322326476.7576
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/mj_all.plist.meta": {
+    "time": 1658320689358.0027
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/bloodSlash.png.meta": {
+    "time": 1658580550570.2114
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/bloodSlash.png": {
+    "time": 1658580542504.9963,
+    "uuid": "957c79bb-bc82-4928-aaa9-aa932943bcff",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CMaterial.ts.meta": {
+    "time": 1658581193518.1233
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CMaterial.ts": {
+    "time": 1658581127364.528,
+    "uuid": "88e8f394-f087-485b-ba7a-61c196e8da5b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/explodeFX01.png.meta": {
+    "time": 1658636561739.2156
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/explodeFX01.plist.meta": {
+    "time": 1658636561813.5076
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/explodeFX01.png": {
+    "time": 1658636561681.3962,
+    "uuid": "4caaa329-3e2d-4943-99bc-218036664de5",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/explodeFX01.plist": {
+    "time": 1658636561682.0996,
+    "uuid": "df8b344b-5fdf-473e-84de-706655155491",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSheetClip.ts.meta": {
+    "time": 1658637619116.6272
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/scripts/game/CSheetClip.ts": {
+    "time": 1658637711054.667,
+    "uuid": "030bf9e3-08b3-4c99-8493-8279aba11948",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/attackFX01.plist.meta": {
+    "time": 1658638557817.6467
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/attackFX01.png.meta": {
+    "time": 1658638557889.1714
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/attackFX01.plist": {
+    "time": 1658638557710.8718,
+    "uuid": "f894919b-5b14-41dd-a51c-9df0b11bfecf",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/attackFX01.png": {
+    "time": 1658638557716.304,
+    "uuid": "3c3b5438-d0c0-4b37-8e05-a722979f89fc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3.meta": {
+    "time": 1658652972109.3657
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3": {
+    "time": 1658652972087.36,
+    "uuid": "c861a6bb-4c94-475a-aa76-e632a6077507",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/bgForest.png.meta": {
+    "time": 1658684228479.1304
+  },
+  "/Users/edwin/Desktop/CCC/ccOneMJMustGo/assets/resources/images/bgForest.png": {
+    "time": 1658684471659.4084,
+    "uuid": "82b4b52a-8297-4dff-93d8-65fc175d3cc7",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources": {
+    "time": 1659108337343.5347,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images": {
+    "time": 1659197556858.342,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/prefabs": {
+    "time": 1658560920564.557,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds": {
+    "time": 1658652972089.016,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scenes/scene.scene": {
+    "time": 1659197557889.1602,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game": {
+    "time": 1659258833959.8003,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/attackFX01.plist": {
+    "time": 1658638557710.8718,
+    "uuid": "f894919b-5b14-41dd-a51c-9df0b11bfecf",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/attackFX01.png": {
+    "time": 1658638557716.304,
+    "uuid": "3c3b5438-d0c0-4b37-8e05-a722979f89fc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/explodeFX01.plist": {
+    "time": 1658636561682.0996,
+    "uuid": "df8b344b-5fdf-473e-84de-706655155491",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/explodeFX01.png": {
+    "time": 1658636561681.3962,
+    "uuid": "4caaa329-3e2d-4943-99bc-218036664de5",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/hint.png": {
+    "time": 1658571038168.5242,
+    "uuid": "73d8000b-62ae-4ddc-8489-75d61fef76d1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_all.plist": {
+    "time": 1658320689147.0464,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_all.png": {
+    "time": 1658320689148.6948,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/prefabs/MJList.prefab": {
+    "time": 1658493605060.8772,
+    "uuid": "85534ea7-0f04-4ff6-a95f-ba61facd14b9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/bgloop.mp3": {
+    "time": 1658561187283.2227,
+    "uuid": "f7505143-78fe-4808-b15e-a473edd691b4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3": {
+    "time": 1658561187265.2441,
+    "uuid": "ff26ac86-608e-4a95-9456-5493d1357176",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3": {
+    "time": 1658652972087.3604,
+    "uuid": "c861a6bb-4c94-475a-aa76-e632a6077507",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3": {
+    "time": 1658561187263.8884,
+    "uuid": "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3": {
+    "time": 1658561187264.1528,
+    "uuid": "5ae2034f-7ffa-41e7-810e-7e898d4f6a70",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3": {
+    "time": 1658561187265.3833,
+    "uuid": "4d54aace-6876-42b3-8b69-0afcdabe9d28",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3": {
+    "time": 1658561187261.68,
+    "uuid": "0992d962-c6dc-497e-85c3-2866865094bb",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mute.mp3": {
+    "time": 1658561187261.515,
+    "uuid": "cacf8bc6-99e4-47b8-9e01-5fda27c1573a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1659149796085.241,
+    "uuid": "5a5456ac-bedc-4970-91a7-23f2b318479d",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CMaterial.ts": {
+    "time": 1659152589318.7842,
+    "uuid": "e9889742-3d09-4eab-807b-758441aab489",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CSheetClip.ts": {
+    "time": 1658637711054.667,
+    "uuid": "54ef83c0-2cd9-465b-b720-821b6781eb7a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "24e7ec1c-7d64-455a-bdfe-55a652c4a3a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJAttack.ts": {
+    "time": 1658581147643.7998,
+    "uuid": "b0d6d3dc-173f-424c-b1a6-429e3ff13a5e",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJShare.ts": {
+    "time": 1659143972560.9158,
+    "uuid": "91e0cb5d-981c-4184-8192-8b01cb600a19",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds.meta": {
+    "time": 1658561088984.5598
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game.meta": {
+    "time": 1658322311291.89
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/attackFX01.png.meta": {
+    "time": 1658638557889.1714
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/explodeFX01.png.meta": {
+    "time": 1658636561739.2158
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/hint.png.meta": {
+    "time": 1658571038199.1348
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/explodeFX01.plist.meta": {
+    "time": 1658636561813.5076
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/attackFX01.plist.meta": {
+    "time": 1658638557817.647
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/prefabs/MJList.prefab.meta": {
+    "time": 1658329493025.4417
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3.meta": {
+    "time": 1658561187378.022
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/bgloop.mp3.meta": {
+    "time": 1658561187404.3025
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3.meta": {
+    "time": 1658652972109.3655
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3.meta": {
+    "time": 1658561187345.1523
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3.meta": {
+    "time": 1658561187359.4146
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3.meta": {
+    "time": 1658561187370.355
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3.meta": {
+    "time": 1658561187390.7234
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1659149937104.9973
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CMaterial.ts.meta": {
+    "time": 1659149937106.8523
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CSheetClip.ts.meta": {
+    "time": 1659149937108.591
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1659149937113.0813
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1659149937117.8716
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1659149937121.3098
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/sounds/mute.mp3.meta": {
+    "time": 1658561187335.2812
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/mj_all.plist.meta": {
+    "time": 1658320689358.0027
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJＭain.ts.meta": {
+    "time": 1659149937123.2214
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MJＭain.ts": {
+    "time": 1659197419779.239,
+    "uuid": "e9f7164f-556b-4dfe-a3cb-d6d11ba1be55",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/gameBG.jpg.meta": {
+    "time": 1659023756473.8325
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/gameBG.jpg": {
+    "time": 1612959867000,
+    "uuid": "b667c487-9204-45fc-9691-5e4111b8585f",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/game_misc.plist.meta": {
+    "time": 1659166241113.5117
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/game_misc.png.meta": {
+    "time": 1659102329764.1013
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/game_misc.plist": {
+    "time": 1659166240912.972,
+    "uuid": "b3882bc7-a2b6-454e-87cd-739200083b65",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/game_misc.png": {
+    "time": 1659166240927.0342,
+    "uuid": "79e70a14-4166-499c-812c-b7b296c469e9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/data.meta": {
+    "time": 1659108337345.4097
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/data": {
+    "time": 1659108341174.6575,
+    "uuid": "1470cdc2-5ac1-4520-9b0c-535cabb27406",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/data/ModelMatrix.json.meta": {
+    "time": 1659108341179.6467
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/data/ModelMatrix.json": {
+    "time": 1659108341172.6152,
+    "uuid": "aff7b81b-5359-49cc-9273-1294fad5f296",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MjQuiz.ts.meta": {
+    "time": 1659149937124.7107
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/scripts/game/MjQuiz.ts": {
+    "time": 1659363081860.7705,
+    "uuid": "47dd910b-c74c-4a74-b415-9df83354d3e1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/rmj_all.plist.meta": {
+    "time": 1659113531982.8206
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/RT.plist.meta": {
+    "time": 1659113532033.186
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/rmj_all.png.meta": {
+    "time": 1659113532129.5286
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/RT.png.meta": {
+    "time": 1659113532936.3557
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/rmj_all.plist": {
+    "time": 1659113531766.0671,
+    "uuid": "4da76d44-b9c5-4f3f-92ab-a30022163794",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/RT.plist": {
+    "time": 1659113531767.9343,
+    "uuid": "992f6868-a02b-41c9-a37e-fcde26aec8b0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/rmj_all.png": {
+    "time": 1659113531771.7383,
+    "uuid": "b263855c-b484-4834-9e98-399920c5a810",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccTaxi/assets/resources/images/RT.png": {
+    "time": 1659113531801.7698,
+    "uuid": "214ac5fd-a2fa-47bb-a27c-a0cff4b9ab53",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources": {
+    "time": 1661065319421.802,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images": {
+    "time": 1661069909179.7478,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/prefabs": {
+    "time": 1661065286588.1084,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds": {
+    "time": 1658652972089.016,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scenes/scene.scene": {
+    "time": 1661075032996.7915,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game": {
+    "time": 1659258833959.8003,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/RT.plist": {
+    "time": 1659113531767.934,
+    "uuid": "992f6868-a02b-41c9-a37e-fcde26aec8b0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/RT.png": {
+    "time": 1659113531801.7698,
+    "uuid": "214ac5fd-a2fa-47bb-a27c-a0cff4b9ab53",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/attackFX01.plist": {
+    "time": 1658638557710.8718,
+    "uuid": "f894919b-5b14-41dd-a51c-9df0b11bfecf",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/attackFX01.png": {
+    "time": 1658638557716.304,
+    "uuid": "3c3b5438-d0c0-4b37-8e05-a722979f89fc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/explodeFX01.plist": {
+    "time": 1658636561682.0996,
+    "uuid": "df8b344b-5fdf-473e-84de-706655155491",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/explodeFX01.png": {
+    "time": 1658636561681.3962,
+    "uuid": "4caaa329-3e2d-4943-99bc-218036664de5",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/game_misc.plist": {
+    "time": 1659166240912.972,
+    "uuid": "b3882bc7-a2b6-454e-87cd-739200083b65",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/game_misc.png": {
+    "time": 1659166240927.0342,
+    "uuid": "79e70a14-4166-499c-812c-b7b296c469e9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/hint.png": {
+    "time": 1658571038168.5242,
+    "uuid": "73d8000b-62ae-4ddc-8489-75d61fef76d1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_all.plist": {
+    "time": 1661068851572.2534,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_all.png": {
+    "time": 1661068851577.528,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/rmj_all.plist": {
+    "time": 1659113531766.0671,
+    "uuid": "4da76d44-b9c5-4f3f-92ab-a30022163794",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/rmj_all.png": {
+    "time": 1659113531771.7383,
+    "uuid": "b263855c-b484-4834-9e98-399920c5a810",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/bgloop.mp3": {
+    "time": 1658561187283.2227,
+    "uuid": "f7505143-78fe-4808-b15e-a473edd691b4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3": {
+    "time": 1658561187265.2441,
+    "uuid": "ff26ac86-608e-4a95-9456-5493d1357176",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3": {
+    "time": 1658652972087.3604,
+    "uuid": "c861a6bb-4c94-475a-aa76-e632a6077507",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3": {
+    "time": 1658561187263.8884,
+    "uuid": "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3": {
+    "time": 1658561187264.1528,
+    "uuid": "5ae2034f-7ffa-41e7-810e-7e898d4f6a70",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3": {
+    "time": 1658561187265.3833,
+    "uuid": "4d54aace-6876-42b3-8b69-0afcdabe9d28",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3": {
+    "time": 1658561187261.68,
+    "uuid": "0992d962-c6dc-497e-85c3-2866865094bb",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mute.mp3": {
+    "time": 1658561187261.515,
+    "uuid": "cacf8bc6-99e4-47b8-9e01-5fda27c1573a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1659149796085.241,
+    "uuid": "5a5456ac-bedc-4970-91a7-23f2b318479d",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CMaterial.ts": {
+    "time": 1659152589318.7842,
+    "uuid": "e9889742-3d09-4eab-807b-758441aab489",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CSheetClip.ts": {
+    "time": 1658637711054.667,
+    "uuid": "54ef83c0-2cd9-465b-b720-821b6781eb7a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "24e7ec1c-7d64-455a-bdfe-55a652c4a3a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJAttack.ts": {
+    "time": 1658581147643.7998,
+    "uuid": "b0d6d3dc-173f-424c-b1a6-429e3ff13a5e",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJShare.ts": {
+    "time": 1659143972560.9158,
+    "uuid": "91e0cb5d-981c-4184-8192-8b01cb600a19",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJＭain.ts": {
+    "time": 1661075122854.3796,
+    "uuid": "e9f7164f-556b-4dfe-a3cb-d6d11ba1be55",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MjQuiz.ts": {
+    "time": 1659363081860.7705,
+    "uuid": "47dd910b-c74c-4a74-b415-9df83354d3e1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds.meta": {
+    "time": 1658561088984.5598
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game.meta": {
+    "time": 1658322311291.89
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/attackFX01.png.meta": {
+    "time": 1658638557889.1714
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/explodeFX01.png.meta": {
+    "time": 1658636561739.2158
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/explodeFX01.plist.meta": {
+    "time": 1658636561813.5076
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/RT.plist.meta": {
+    "time": 1659113532033.186
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/attackFX01.plist.meta": {
+    "time": 1658638557817.647
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/RT.png.meta": {
+    "time": 1659113532936.3557
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/hint.png.meta": {
+    "time": 1658571038199.1348
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/game_misc.png.meta": {
+    "time": 1659102329764.1013
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/rmj_all.png.meta": {
+    "time": 1659113532129.5286
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/bgloop.mp3.meta": {
+    "time": 1658561187404.3025
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/game_misc.plist.meta": {
+    "time": 1659166241113.5117
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3.meta": {
+    "time": 1658652972109.3655
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3.meta": {
+    "time": 1658561187378.022
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3.meta": {
+    "time": 1658561187359.4146
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3.meta": {
+    "time": 1658561187370.355
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3.meta": {
+    "time": 1658561187390.7234
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1659149937104.9973
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CMaterial.ts.meta": {
+    "time": 1659149937106.8523
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CSheetClip.ts.meta": {
+    "time": 1659149937108.5913
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1659149937113.0813
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3.meta": {
+    "time": 1658561187345.1523
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1659149937117.8716
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1659149937121.3098
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/sounds/mute.mp3.meta": {
+    "time": 1658561187335.2812
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MJＭain.ts.meta": {
+    "time": 1659149937123.2214
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/scripts/game/MjQuiz.ts.meta": {
+    "time": 1659149937124.7104
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/mj_all.plist.meta": {
+    "time": 1661068851880.4592
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/rmj_all.plist.meta": {
+    "time": 1659113531982.8206
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/gameBG.png.meta": {
+    "time": 1661069909239.7017
+  },
+  "/Users/edwin/Desktop/CCC/ccOneBlade/assets/resources/images/gameBG.png": {
+    "time": 1661069840617.8818,
+    "uuid": "9cd747b6-aa0a-4474-ab67-db88244576d6",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources": {
+    "time": 1661065319421.802,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images": {
+    "time": 1661085134595.5857,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/prefabs": {
+    "time": 1661065286588.1084,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds": {
+    "time": 1658652972089.016,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scenes/scene.scene": {
+    "time": 1661107327541.9885,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game": {
+    "time": 1661077907056.9233,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/RT.plist": {
+    "time": 1659113531767.934,
+    "uuid": "992f6868-a02b-41c9-a37e-fcde26aec8b0",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/RT.png": {
+    "time": 1659113531801.7698,
+    "uuid": "214ac5fd-a2fa-47bb-a27c-a0cff4b9ab53",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/attackFX01.plist": {
+    "time": 1658638557710.8718,
+    "uuid": "f894919b-5b14-41dd-a51c-9df0b11bfecf",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/attackFX01.png": {
+    "time": 1658638557716.304,
+    "uuid": "3c3b5438-d0c0-4b37-8e05-a722979f89fc",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/explodeFX01.plist": {
+    "time": 1658636561682.0996,
+    "uuid": "df8b344b-5fdf-473e-84de-706655155491",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/explodeFX01.png": {
+    "time": 1658636561681.3962,
+    "uuid": "4caaa329-3e2d-4943-99bc-218036664de5",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/gameBG.png": {
+    "time": 1661069840617.8818,
+    "uuid": "9cd747b6-aa0a-4474-ab67-db88244576d6",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/game_misc.plist": {
+    "time": 1659166240912.972,
+    "uuid": "b3882bc7-a2b6-454e-87cd-739200083b65",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/game_misc.png": {
+    "time": 1659166240927.0342,
+    "uuid": "79e70a14-4166-499c-812c-b7b296c469e9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/hint.png": {
+    "time": 1658571038168.5242,
+    "uuid": "73d8000b-62ae-4ddc-8489-75d61fef76d1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_all.plist": {
+    "time": 1661085105657.9,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_all.png": {
+    "time": 1661085105654.5955,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_game_bg.png": {
+    "time": 1658495366671.7058,
+    "uuid": "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/rmj_all.plist": {
+    "time": 1659113531766.0671,
+    "uuid": "4da76d44-b9c5-4f3f-92ab-a30022163794",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/rmj_all.png": {
+    "time": 1659113531771.7383,
+    "uuid": "b263855c-b484-4834-9e98-399920c5a810",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/bgloop.mp3": {
+    "time": 1658561187283.2227,
+    "uuid": "f7505143-78fe-4808-b15e-a473edd691b4",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3": {
+    "time": 1658561187265.2441,
+    "uuid": "ff26ac86-608e-4a95-9456-5493d1357176",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3": {
+    "time": 1658652972087.3604,
+    "uuid": "c861a6bb-4c94-475a-aa76-e632a6077507",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3": {
+    "time": 1658561187263.8884,
+    "uuid": "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3": {
+    "time": 1658561187264.1528,
+    "uuid": "5ae2034f-7ffa-41e7-810e-7e898d4f6a70",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3": {
+    "time": 1658561187265.3833,
+    "uuid": "4d54aace-6876-42b3-8b69-0afcdabe9d28",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3": {
+    "time": 1658561187261.68,
+    "uuid": "0992d962-c6dc-497e-85c3-2866865094bb",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mute.mp3": {
+    "time": 1658561187261.515,
+    "uuid": "cacf8bc6-99e4-47b8-9e01-5fda27c1573a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1659149796085.241,
+    "uuid": "5a5456ac-bedc-4970-91a7-23f2b318479d",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CMaterial.ts": {
+    "time": 1659152589318.7842,
+    "uuid": "e9889742-3d09-4eab-807b-758441aab489",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CSheetClip.ts": {
+    "time": 1658637711054.667,
+    "uuid": "54ef83c0-2cd9-465b-b720-821b6781eb7a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "24e7ec1c-7d64-455a-bdfe-55a652c4a3a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJAttack.ts": {
+    "time": 1658581147643.7998,
+    "uuid": "b0d6d3dc-173f-424c-b1a6-429e3ff13a5e",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJShare.ts": {
+    "time": 1659143972560.9158,
+    "uuid": "91e0cb5d-981c-4184-8192-8b01cb600a19",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJＭain.ts": {
+    "time": 1661110993898.6155,
+    "uuid": "e9f7164f-556b-4dfe-a3cb-d6d11ba1be55",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MjQuiz.ts": {
+    "time": 1659363081860.7705,
+    "uuid": "47dd910b-c74c-4a74-b415-9df83354d3e1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds.meta": {
+    "time": 1658561088984.5598
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game.meta": {
+    "time": 1658322311291.89
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/attackFX01.png.meta": {
+    "time": 1658638557889.1714
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/explodeFX01.png.meta": {
+    "time": 1658636561739.2158
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/explodeFX01.plist.meta": {
+    "time": 1658636561813.5076
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/RT.plist.meta": {
+    "time": 1659113532033.186
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/attackFX01.plist.meta": {
+    "time": 1658638557817.647
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/gameBG.png.meta": {
+    "time": 1661069909239.7017
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/hint.png.meta": {
+    "time": 1658571038199.1348
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/RT.png.meta": {
+    "time": 1659113532936.3557
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/game_misc.png.meta": {
+    "time": 1659102329764.1013
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_game_bg.png.meta": {
+    "time": 1658495389308.3801
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/bgloop.mp3.meta": {
+    "time": 1658561187404.3025
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/rmj_all.png.meta": {
+    "time": 1659113532129.5286
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/game_misc.plist.meta": {
+    "time": 1659166241113.5117
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3.meta": {
+    "time": 1658561187378.022
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3.meta": {
+    "time": 1658652972109.3655
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3.meta": {
+    "time": 1658561187359.4146
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3.meta": {
+    "time": 1658561187370.355
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3.meta": {
+    "time": 1658561187390.7234
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1659149937104.9973
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CMaterial.ts.meta": {
+    "time": 1659149937106.8523
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3.meta": {
+    "time": 1658561187345.1523
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CSheetClip.ts.meta": {
+    "time": 1659149937108.5913
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1659149937113.0813
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1659149937117.8716
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1659149937121.3098
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MJＭain.ts.meta": {
+    "time": 1659149937123.2214
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/sounds/mute.mp3.meta": {
+    "time": 1658561187335.2812
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/scripts/game/MjQuiz.ts.meta": {
+    "time": 1659149937124.7104
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/mj_all.plist.meta": {
+    "time": 1661085142771.493
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada/assets/resources/images/rmj_all.plist.meta": {
+    "time": 1659113531982.8206
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources": {
+    "time": 1661065319421.802,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts": {
+    "time": 1658561134298.722,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images": {
+    "time": 1661173873795.7566,
+    "uuid": "ebc0730e-03a3-4cd2-9921-ddede4400581",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/prefabs": {
+    "time": 1661065286588.1084,
+    "uuid": "cb6ef61c-4ce8-4457-b1af-10777f840c56",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/sounds": {
+    "time": 1661173725574.661,
+    "uuid": "821e50c8-7c00-4070-bff2-3cd0f2e88d33",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scenes/scene.scene": {
+    "time": 1661183206087.8157,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game": {
+    "time": 1661077907056.9233,
+    "uuid": "d7d8ce7c-e209-476f-b7ac-70dde116cf29",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/gameBG.png": {
+    "time": 1661069840617.8818,
+    "uuid": "9cd747b6-aa0a-4474-ab67-db88244576d6",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/mj_all.plist": {
+    "time": 1661085105657.9,
+    "uuid": "d5813c91-4db2-4667-bd52-135f2d133ce2",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/mj_all.png": {
+    "time": 1661085105654.5955,
+    "uuid": "37403fa9-ed75-4957-8100-470a6e9044a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CAssetsLoader.ts": {
+    "time": 1659149796085.241,
+    "uuid": "5a5456ac-bedc-4970-91a7-23f2b318479d",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CMaterial.ts": {
+    "time": 1659152589318.7842,
+    "uuid": "e9889742-3d09-4eab-807b-758441aab489",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CSheetClip.ts": {
+    "time": 1658637711054.667,
+    "uuid": "54ef83c0-2cd9-465b-b720-821b6781eb7a",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CSoundPlayer.ts": {
+    "time": 1658567422090.6619,
+    "uuid": "24e7ec1c-7d64-455a-bdfe-55a652c4a3a3",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJAttack.ts": {
+    "time": 1658581147643.7998,
+    "uuid": "b0d6d3dc-173f-424c-b1a6-429e3ff13a5e",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJShare.ts": {
+    "time": 1659143972560.9158,
+    "uuid": "91e0cb5d-981c-4184-8192-8b01cb600a19",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJＭain.ts": {
+    "time": 1661182976631.8606,
+    "uuid": "e9f7164f-556b-4dfe-a3cb-d6d11ba1be55",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MjQuiz.ts": {
+    "time": 1659363081860.7705,
+    "uuid": "47dd910b-c74c-4a74-b415-9df83354d3e1",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images.meta": {
+    "time": 1658063032591.0952
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/prefabs.meta": {
+    "time": 1658320918199.3342
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/sounds.meta": {
+    "time": 1658561088984.5598
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game.meta": {
+    "time": 1658322311291.89
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/gameBG.png.meta": {
+    "time": 1661069909239.7017
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/mj_all.png.meta": {
+    "time": 1658320689570.414
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CAssetsLoader.ts.meta": {
+    "time": 1659149937104.9973
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CMaterial.ts.meta": {
+    "time": 1659149937106.8523
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CSheetClip.ts.meta": {
+    "time": 1659149937108.5913
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/CSoundPlayer.ts.meta": {
+    "time": 1659149937113.0813
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJAttack.ts.meta": {
+    "time": 1659149937117.8716
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJShare.ts.meta": {
+    "time": 1659149937121.3098
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MJＭain.ts.meta": {
+    "time": 1659149937123.2214
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/scripts/game/MjQuiz.ts.meta": {
+    "time": 1659149937124.7104
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/mj_all.plist.meta": {
+    "time": 1661085142771.493
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/game_misc.plist.meta": {
+    "time": 1661173873795.2937
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/game_misc.png.meta": {
+    "time": 1661173873796.124
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/game_misc.plist": {
+    "time": 1661173873790.101,
+    "uuid": "b3882bc7-a2b6-454e-87cd-739200083b65",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccZenbada2/assets/resources/images/game_misc.png": {
+    "time": 1661173873792.1475,
+    "uuid": "79e70a14-4166-499c-812c-b7b296c469e9",
+    "missing": true
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/resources": {
+    "time": 1661439218783.6924,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts": {
+    "time": 1661439996159.445,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scenes/scene.scene": {
+    "time": 1661269329345.9282,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core.meta": {
+    "time": 1661256617150.3494
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core": {
+    "time": 1661261397542.2625,
+    "uuid": "3fd838e3-f541-4cb4-87a0-94bfddd20131",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSParser.ts.meta": {
+    "time": 1661256643291.621
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSParser.ts": {
+    "time": 1661440271427.947,
+    "uuid": "3707c31f-89b9-4eab-9101-b4e5d4d5ad43",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSLoader.ts.meta": {
+    "time": 1661258834593.0508
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSLoader.ts": {
+    "time": 1661440315075.7134,
+    "uuid": "618a9190-cb99-4d41-a105-eca1874e0306",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSMain.ts.meta": {
+    "time": 1661258982615.486
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSMain.ts": {
+    "time": 1661441103089.2297,
+    "uuid": "f3c3ba04-e15f-4c2a-86ae-9bd441e4c5bd",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSData.ts.meta": {
+    "time": 1661261397548.7798
+  },
+  "/Users/edwin/Desktop/CCC/ccBMSPlayer/assets/scripts/core/BMSData.ts": {
+    "time": 1661341107213.7861,
+    "uuid": "63101090-bdab-4b52-be99-bb66da385a9c",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/resources": {
+    "time": 1661439218783.6924,
+    "uuid": "34b3873d-1c40-4df5-8c72-e8e6f2300ac2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scenes": {
+    "time": 1658328891638.6023,
+    "uuid": "c493795b-c57c-4697-b403-fb589c5810a8",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts": {
+    "time": 1661439996159.445,
+    "uuid": "cfb03e9e-d9fd-45e1-9310-d15f7802355f",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scenes/scene.scene": {
+    "time": 1661269329345.9282,
+    "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core": {
+    "time": 1661261397542.2625,
+    "uuid": "3fd838e3-f541-4cb4-87a0-94bfddd20131",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSData.ts": {
+    "time": 1661341107213.786,
+    "uuid": "63101090-bdab-4b52-be99-bb66da385a9c",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSLoader.ts": {
+    "time": 1661440315075.7134,
+    "uuid": "618a9190-cb99-4d41-a105-eca1874e0306",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSMain.ts": {
+    "time": 1661441103089.2297,
+    "uuid": "f3c3ba04-e15f-4c2a-86ae-9bd441e4c5bd",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSParser.ts": {
+    "time": 1661440271427.947,
+    "uuid": "3707c31f-89b9-4eab-9101-b4e5d4d5ad43",
+    "missing": false
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/resources.meta": {
+    "time": 1658323750029.4585
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scenes.meta": {
+    "time": 1658063018961.636
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts.meta": {
+    "time": 1657978520900.7961
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core.meta": {
+    "time": 1661256617150.3494
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSData.ts.meta": {
+    "time": 1661261397548.7798
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSLoader.ts.meta": {
+    "time": 1661258834593.0508
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSMain.ts.meta": {
+    "time": 1661258982615.486
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scripts/core/BMSParser.ts.meta": {
+    "time": 1661256643291.621
+  },
+  "/Users/edwin/Desktop/CCCGame/cccBMSPlayer/assets/scenes/scene.scene.meta": {
+    "time": 1658328891645.3943
+  }
+}

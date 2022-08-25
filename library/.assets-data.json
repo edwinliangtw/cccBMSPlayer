@@ -1,0 +1,314 @@
+{
+  "e9e9b50b-961e-4e7a-9219-dc9ae215422c": {
+    "url": "db://assets/resources/images/bee.png",
+    "value": {}
+  },
+  "cfb03e9e-d9fd-45e1-9310-d15f7802355f": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "d9d4a245-589f-4d73-93c8-6c783e37c6a4": {
+    "url": "db://assets/scripts/game/CSpriteKBController.ts",
+    "value": {}
+  },
+  "0ad7db27-fe11-4d6e-98ca-f800b255e743": {
+    "url": "db://assets/Scenes/scene.scene",
+    "value": {}
+  },
+  "c493795b-c57c-4697-b403-fb589c5810a8": {
+    "url": "db://assets/scenes",
+    "value": {}
+  },
+  "ebc0730e-03a3-4cd2-9921-ddede4400581": {
+    "url": "db://assets/resources/images",
+    "value": {}
+  },
+  "d5813c91-4db2-4667-bd52-135f2d133ce2": {
+    "url": "db://assets/resources/images/mj_all.plist",
+    "value": {}
+  },
+  "37403fa9-ed75-4957-8100-470a6e9044a3": {
+    "url": "db://assets/resources/images/mj_all.png",
+    "value": {}
+  },
+  "cb6ef61c-4ce8-4457-b1af-10777f840c56": {
+    "url": "db://assets/resources/prefabs",
+    "value": {}
+  },
+  "c0bb4d23-b91d-4699-b539-8c5051648d65": {
+    "url": "db://assets/resources/Prefabs/MJCardList.prefab",
+    "value": {}
+  },
+  "d7d8ce7c-e209-476f-b7ac-70dde116cf29": {
+    "url": "db://assets/scripts/game",
+    "value": {}
+  },
+  "d589ccca-95c3-4806-9aec-b2a0c05c4ed3": {
+    "url": "db://assets/scripts/game/MJＭain.ts",
+    "value": {}
+  },
+  "34b3873d-1c40-4df5-8c72-e8e6f2300ac2": {
+    "url": "db://assets/resources",
+    "value": {}
+  },
+  "709685f6-c653-419d-952d-9b273c76d469": {
+    "url": "db://assets/resources/Prefabs/MJCardList.prefab",
+    "value": {}
+  },
+  "cfe58ed6-3ec1-4fdc-ac58-6f435ab61087": {
+    "url": "db://assets/MJCardList.prefab",
+    "value": {}
+  },
+  "f3b8601e-391e-48e8-a859-1a56f3644631": {
+    "url": "db://assets/resources/prefabs/MJList.prefab",
+    "value": {}
+  },
+  "582ef00f-e0d6-474e-b9e4-92f0ff985ba2": {
+    "url": "db://assets/scenes/scene.scene",
+    "value": {}
+  },
+  "7beb87eb-ab1a-4493-94ee-60a26915cd4c": {
+    "url": "db://assets/resources/prefabs/Layout.prefab",
+    "value": {}
+  },
+  "85534ea7-0f04-4ff6-a95f-ba61facd14b9": {
+    "url": "db://assets/resources/prefabs/MJList.prefab",
+    "value": {}
+  },
+  "f7f76020-1295-416d-8430-d5f954aa5e3b": {
+    "url": "db://assets/scripts/game/ES_MJQuizProvider.ts",
+    "value": {}
+  },
+  "2bbc0bea-b219-4ecd-90d4-caea757e7e25": {
+    "url": "db://assets/scripts/game/ES_MJTools.ts",
+    "value": {}
+  },
+  "6c84853e-d95e-4478-adc2-d02c66bd2ee0": {
+    "url": "db://assets/scripts/game/ES_Tools.ts",
+    "value": {}
+  },
+  "b7354f0d-2bc6-474e-835e-0e08ba10268c": {
+    "url": "db://assets/resources/images/samurai.jpg",
+    "value": {}
+  },
+  "7305c688-56c5-4a91-82dd-f28a97bb2b68": {
+    "url": "db://assets/resources/images/samurai.png",
+    "value": {}
+  },
+  "68345393-898e-430a-8953-fd0d651662cf": {
+    "url": "db://assets/resources/images/street.webp",
+    "value": {}
+  },
+  "b83e6e85-20bc-4ce2-8f02-d20f8720c9c9": {
+    "url": "db://assets/resources/images/mj_game_bg.png",
+    "value": {}
+  },
+  "cfaeb345-f1b3-4484-8373-57beb3ecc865": {
+    "url": "db://assets/scripts/game/MJAttack.ts",
+    "value": {}
+  },
+  "d4a759b5-9dc5-44aa-bddd-5d62a548b491": {
+    "url": "db://assets/resources/prefabs/SFImg.prefab",
+    "value": {}
+  },
+  "821e50c8-7c00-4070-bff2-3cd0f2e88d33": {
+    "url": "db://assets/resources/sounds",
+    "value": {}
+  },
+  "cacf8bc6-99e4-47b8-9e01-5fda27c1573a": {
+    "url": "db://assets/resources/sounds/mute.mp3",
+    "value": {}
+  },
+  "0992d962-c6dc-497e-85c3-2866865094bb": {
+    "url": "db://assets/resources/sounds/mixkit-soft-quick-punch-2151.mp3",
+    "value": {}
+  },
+  "049b98fc-8ef0-49e0-a229-6c9a14b2fb1b": {
+    "url": "db://assets/resources/sounds/mixkit-kung-fu-strike-with-effort-2162.mp3",
+    "value": {}
+  },
+  "5ae2034f-7ffa-41e7-810e-7e898d4f6a70": {
+    "url": "db://assets/resources/sounds/mixkit-ow-exclamation-of-pain-2204.mp3",
+    "value": {}
+  },
+  "ff26ac86-608e-4a95-9456-5493d1357176": {
+    "url": "db://assets/resources/sounds/mixkit-basketball-ball-tap-2092.mp3",
+    "value": {}
+  },
+  "4d54aace-6876-42b3-8b69-0afcdabe9d28": {
+    "url": "db://assets/resources/sounds/mixkit-small-group-cheer-and-applause-518.mp3",
+    "value": {}
+  },
+  "f7505143-78fe-4808-b15e-a473edd691b4": {
+    "url": "db://assets/resources/sounds/bgloop.mp3",
+    "value": {}
+  },
+  "53b9d762-8e13-421d-b7fb-a8915ee59884": {
+    "url": "db://assets/scripts/game/MJShare.ts",
+    "value": {}
+  },
+  "e91da4b2-b59a-4b4f-8290-70a1d7b890d7": {
+    "url": "db://assets/scripts/game/CAssetsLoader.ts",
+    "value": {}
+  },
+  "af7b4ea5-5cc6-4dfe-872d-0845e55175bc": {
+    "url": "db://assets/scripts/game/CSoundPlayer.ts",
+    "value": {}
+  },
+  "f59323c0-a380-4561-959f-9e541d9efe05": {
+    "url": "db://assets/resources/images/hint.png",
+    "value": {}
+  },
+  "73d8000b-62ae-4ddc-8489-75d61fef76d1": {
+    "url": "db://assets/resources/images/hint.png",
+    "value": {}
+  },
+  "957c79bb-bc82-4928-aaa9-aa932943bcff": {
+    "url": "db://assets/resources/images/bloodSlash.png",
+    "value": {}
+  },
+  "88e8f394-f087-485b-ba7a-61c196e8da5b": {
+    "url": "db://assets/scripts/game/CMaterial.ts",
+    "value": {}
+  },
+  "4caaa329-3e2d-4943-99bc-218036664de5": {
+    "url": "db://assets/resources/images/explodeFX01.png",
+    "value": {}
+  },
+  "df8b344b-5fdf-473e-84de-706655155491": {
+    "url": "db://assets/resources/images/explodeFX01.plist",
+    "value": {}
+  },
+  "030bf9e3-08b3-4c99-8493-8279aba11948": {
+    "url": "db://assets/scripts/game/CSheetClip.ts",
+    "value": {}
+  },
+  "f894919b-5b14-41dd-a51c-9df0b11bfecf": {
+    "url": "db://assets/resources/images/attackFX01.plist",
+    "value": {}
+  },
+  "3c3b5438-d0c0-4b37-8e05-a722979f89fc": {
+    "url": "db://assets/resources/images/attackFX01.png",
+    "value": {}
+  },
+  "c861a6bb-4c94-475a-aa76-e632a6077507": {
+    "url": "db://assets/resources/sounds/mixkit-fantasy-game-sweep-notification-255.mp3",
+    "value": {}
+  },
+  "82b4b52a-8297-4dff-93d8-65fc175d3cc7": {
+    "url": "db://assets/resources/images/bgForest.png",
+    "value": {}
+  },
+  "b667c487-9204-45fc-9691-5e4111b8585f": {
+    "url": "db://assets/resources/images/gameBG.jpg",
+    "value": {}
+  },
+  "79e70a14-4166-499c-812c-b7b296c469e9": {
+    "url": "db://assets/resources/images/game_misc.png",
+    "value": {}
+  },
+  "b3882bc7-a2b6-454e-87cd-739200083b65": {
+    "url": "db://assets/resources/images/game_misc.plist",
+    "value": {}
+  },
+  "1470cdc2-5ac1-4520-9b0c-535cabb27406": {
+    "url": "db://assets/resources/data",
+    "value": {}
+  },
+  "aff7b81b-5359-49cc-9273-1294fad5f296": {
+    "url": "db://assets/resources/data/ModelMatrix.json",
+    "value": {}
+  },
+  "b62c566a-24af-4840-8af2-2518cc25716c": {
+    "url": "db://assets/scripts/game/MjQuiz.ts",
+    "value": {}
+  },
+  "4da76d44-b9c5-4f3f-92ab-a30022163794": {
+    "url": "db://assets/resources/images/rmj_all.plist",
+    "value": {}
+  },
+  "992f6868-a02b-41c9-a37e-fcde26aec8b0": {
+    "url": "db://assets/resources/images/RT.plist",
+    "value": {}
+  },
+  "b263855c-b484-4834-9e98-399920c5a810": {
+    "url": "db://assets/resources/images/rmj_all.png",
+    "value": {}
+  },
+  "214ac5fd-a2fa-47bb-a27c-a0cff4b9ab53": {
+    "url": "db://assets/resources/images/RT.png",
+    "value": {}
+  },
+  "5a5456ac-bedc-4970-91a7-23f2b318479d": {
+    "url": "db://assets/scripts/game/CAssetsLoader.ts",
+    "value": {}
+  },
+  "e9889742-3d09-4eab-807b-758441aab489": {
+    "url": "db://assets/scripts/game/CMaterial.ts",
+    "value": {}
+  },
+  "54ef83c0-2cd9-465b-b720-821b6781eb7a": {
+    "url": "db://assets/scripts/game/CSheetClip.ts",
+    "value": {}
+  },
+  "24e7ec1c-7d64-455a-bdfe-55a652c4a3a3": {
+    "url": "db://assets/scripts/game/CSoundPlayer.ts",
+    "value": {}
+  },
+  "b0d6d3dc-173f-424c-b1a6-429e3ff13a5e": {
+    "url": "db://assets/scripts/game/MJAttack.ts",
+    "value": {}
+  },
+  "91e0cb5d-981c-4184-8192-8b01cb600a19": {
+    "url": "db://assets/scripts/game/MJShare.ts",
+    "value": {}
+  },
+  "e9f7164f-556b-4dfe-a3cb-d6d11ba1be55": {
+    "url": "db://assets/scripts/game/MJＭain.ts",
+    "value": {}
+  },
+  "47dd910b-c74c-4a74-b415-9df83354d3e1": {
+    "url": "db://assets/scripts/game/MjQuiz.ts",
+    "value": {}
+  },
+  "9cd747b6-aa0a-4474-ab67-db88244576d6": {
+    "url": "db://assets/resources/images/gameBG.png",
+    "value": {}
+  },
+  "6d1899e0-096b-41a7-af78-02595a6c2928": {
+    "url": "db://assets/scripts/game/NewComponent.ts",
+    "value": {}
+  },
+  "3fd838e3-f541-4cb4-87a0-94bfddd20131": {
+    "url": "db://assets/scripts/core",
+    "value": {}
+  },
+  "3707c31f-89b9-4eab-9101-b4e5d4d5ad43": {
+    "url": "db://assets/scripts/core/BMSParser.ts",
+    "value": {}
+  },
+  "39cfec31-c93c-4dcc-97a5-ff6a1d45ab2c": {
+    "url": "db://assets/resources/data",
+    "value": {}
+  },
+  "d35d3f80-4fe0-4c1a-9417-bae8224f33be": {
+    "url": "db://assets/resources/datas/J219.bms",
+    "value": {}
+  },
+  "b0f8bee0-ed9a-4861-bca1-4d00a8a04b06": {
+    "url": "db://assets/resources/datas",
+    "value": {}
+  },
+  "618a9190-cb99-4d41-a105-eca1874e0306": {
+    "url": "db://assets/scripts/core/BMSLoader.ts",
+    "value": {}
+  },
+  "f3c3ba04-e15f-4c2a-86ae-9bd441e4c5bd": {
+    "url": "db://assets/scripts/core/BMSMain.ts",
+    "value": {}
+  },
+  "63101090-bdab-4b52-be99-bb66da385a9c": {
+    "url": "db://assets/scripts/core/BMSData.ts",
+    "value": {}
+  }
+}

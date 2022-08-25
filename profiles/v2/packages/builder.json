@@ -1,0 +1,58 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 1
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1658557400102": {
+        "id": "1658557400102",
+        "progress": 1,
+        "state": "success",
+        "message": "2022-8-22 23:47 Build success in 17407 ms!",
+        "options": {
+          "name": "test",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/scene.scene",
+              "uuid": "582ef00f-e0d6-474e-b9e4-92f0ff985ba2",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "103e09",
+              "services": []
+            }
+          }
+        },
+        "time": "2022-8-22 23:46",
+        "dirty": false
+      }
+    }
+  }
+}

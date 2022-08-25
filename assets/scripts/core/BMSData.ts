@@ -1,0 +1,24 @@
+export class BMSData {
+    public player = ''
+    public genre = ''
+    public title = ''
+    public artist = ''
+    public bpm = ''
+    public playLevel = ''
+    public rank = ''
+    public total = 0
+    public sategFile = ''
+    public keyNum = ''
+    public difficulty = ''
+    public wav = {}
+    public bmp = {}
+    public data = []
+    public exbpm = {}
+    public stop = {}
+    public totalNote = 0
+    public bgms = []
+    public animations = []
+    public bpms = []
+    public stopTiming = []
+    public endTime = 0
+}
